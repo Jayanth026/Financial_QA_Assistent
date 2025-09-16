@@ -76,8 +76,7 @@ financial-qa-bot/
 │── app.py                # Main Streamlit app
 │── requirements.txt      # Python dependencies
 │── README.md             # Documentation
-└── sample_data/
-    └── sample_income_statement.xlsx
+└── test.xlsx
 ```
 
 ---
