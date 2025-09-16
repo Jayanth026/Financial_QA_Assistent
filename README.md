@@ -12,7 +12,7 @@ Built with **Streamlit**, **Ollama SLMs**, and **pandas/pdfplumber** for data ex
 - Interactive **chat interface** for natural language questions  
 - **Structured metric extraction** (Revenue, Net Income, Expenses, Assets, Liabilities, Equity)  
   - Detects specific years in the question (e.g., *“Revenue in 2024”*)  
-  - If no year specified → automatically **sums across all years**  
+  - If no year specified -> automatically **sums across all years**  
 - **Vector-based retrieval** + **local LLM (Mistral)** for context-aware answers  
 - Works **offline / locally** using Ollama (no cloud dependency)  
 - Transparent results with **table previews** and **retrieved context**  
