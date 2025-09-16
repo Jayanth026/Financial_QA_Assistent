@@ -1,4 +1,4 @@
-# 💼 Financial Document Q&A Assistant
+# Financial Document Q&A Assistant
 
 A local Streamlit application that processes **financial documents (PDF & Excel)** and provides an **interactive Q&A chatbot** to query financial data using natural language.  
 Built with **Streamlit**, **Ollama SLMs**, and **pandas/pdfplumber** for data extraction.  
