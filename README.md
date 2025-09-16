@@ -97,7 +97,7 @@ financial-qa-bot/
 
 ## Example
 
-Sample Excel (`sample_income_statement.xlsx`):
+Sample Excel (`test.xlsx`):
 
 | Metric             | 2023       | 2024       |
 |--------------------|------------|------------|
