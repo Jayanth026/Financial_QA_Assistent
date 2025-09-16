@@ -43,8 +43,8 @@ ollama pull nomic-embed-text
 
 ### 3. Clone the Repo
 ```bash
-git clone https://github.com/<your-username>/financial-qa-bot.git
-cd financial-qa-bot
+git clone https://github.com/Jayanth026/Financial_QA_Assistent.git
+cd Financial_QA_Assistent
 ```
 
 ### 4. Setup Virtual Environment
